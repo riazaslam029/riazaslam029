@@ -20,11 +20,14 @@
 ## 🚀 About Me
 
 - 🎓 Software Engineering Student  
-- 💬 I love building with **Java (OOP)**, **C++**, **Python**, and **AI**  
-- 🛒 Creator of a File-Based E-commerce System (JavaFX)  
-- 🎥 Content creator & video editor  
+- 💬 I love building with **Java (OOP)**, **C++**, **Python**, and **AI**
+- 🛒 Creator of a File-Based E-commerce System (JavaFX)
+- 🔐 Developed Login Registration System (Java)
+- 💵 Built Banking System (Java)
+- 💻 C++ algorithms & demos
+- 🎥 Content creator & video editor
 - 🌱 Always learning & exploring new tech  
-- 📍 Based in Pakistan  
+- 📍 Based in Pakistan
 
 ---
 
@@ -43,11 +46,42 @@
 
 ---
 
-## 🚩 Featured Project
+## 📚 Projects
+
+- 🛒 [File-Based E-commerce System using Java & JavaFX](https://github.com/riazaslam029/File-Based-E-commerce-System-using-Java-and-JAvaFX)
+- 🔐 [Login Registration System](https://github.com/riazaslam029/Login-Registration-System)
+- 💵 [Banking System](https://github.com/riazaslam029/Banking-System)
+- 💻 **C++ Algorithms & Demos:**  
+  *Coming soon — C++ code samples and projects!*
+
+---
+
+## 🚩 Featured Projects
 
 ### 🛒 [File-Based E-commerce System using Java & JavaFX](https://github.com/riazaslam029/File-Based-E-commerce-System-using-Java-and-JAvaFX)
 - JavaFX GUI, Admin & User dashboards
 - File-based storage, sales reports, product management, and more
+
+### 🔐 [Login Registration System](https://github.com/riazaslam029/Login-Registration-System)
+- Secure user registration and login flows in Java
+
+### 💵 [Banking System](https://github.com/riazaslam029/Banking-System)
+- Core banking features built with Java
+
+---
+
+## 💻 C++ Sample
+
+```cpp
+// Sample C++ code
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Welcome to Riaz's C++ showcase!" << endl;
+    return 0;
+}
+```
 
 ---
 
