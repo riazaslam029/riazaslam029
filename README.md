@@ -53,6 +53,7 @@
 - 💵 [Banking System](https://github.com/riazaslam029/Banking-System)
 - 💻 **C++ Algorithms & Demos:**  
   *Coming soon — C++ code samples and projects!*
+- 🌐 [Riaz Portfolio](https://github.com/riazaslam029/Riaz-Portfolio) — Built with HTML, CSS & JavaScript
 
 ---
 
@@ -67,6 +68,12 @@
 
 ### 💵 [Banking System](https://github.com/riazaslam029/Banking-System)
 - Core banking features built with Java
+
+---
+
+## 🎉 Open Source Contributions
+
+- ✅ Made my first open-source contribution to [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) — thank you to the maintainers for the warm welcome!
 
 ---
 
