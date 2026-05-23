@@ -64,7 +64,7 @@
   <a href="https://ai-healthcaresystem-using-symptoms-fdcjyrq9ssajzncvsvvhbg.streamlit.app/">Live deployed app</a> | Python, ML, Streamlit
 
 - 📦 [Smart Inventory and Sales Management System](https://github.com/riazaslam029/Smart-Inventory-and-Sales-Management-System)  
-  TypeScript, React, Node.js | [Live](https://smart-inventory-and-sales-managemen-omega.vercel.app)
+  TypeScript, React, Node.js 
 
 - 🛒 [File-Based E-commerce System (Java, JavaFX)](https://github.com/riazaslam029/File-Based-E-commerce-System-using-Java-and-JAvaFX)  
   Desktop shopping, sales dashboard, and more
