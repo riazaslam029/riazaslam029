@@ -194,22 +194,21 @@ Architecting and delivering practical software systems across AI-assisted health
 
 ---
 
-## Certifications
+## 🎓 Professional Certifications
+*Validated expertise from industry leaders.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-AI%20Engineering-172664?style=flat&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-Professional%20Certificates-0056D2?style=flat&logo=coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+</p>
 
 ### AWS
 <p>
   <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### Oracle
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Java%20Learning-5B21B6?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Engineering%20Track-4338CA?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
 
 ### Cisco
 <p>
