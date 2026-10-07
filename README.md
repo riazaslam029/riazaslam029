@@ -249,29 +249,6 @@ Architecting and delivering practical software systems across AI-assisted health
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riazaslam029&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riazaslam029&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riazaslam029/riazaslam029/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## Current Focus
 
