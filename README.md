@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=RIAZ%20ASLAM&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=EDE9FE&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Product%20Builder&descAlign=50&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=RIAZ%20ASLAM&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=EDE9FE&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Product%20Builder&descAlign=50&descAlignY=60" width="100%" alt="Riaz Aslam profile banner" />
 </p>
 
 <p align="center">
@@ -7,30 +7,30 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Student-4C1D95?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-Specialization-5B21B6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-4C1D95?style=for-the-badge&logo=academia&logoColor=white" alt="Software Engineering Student badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Specialization-5B21B6?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML Specialization badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Pakistan badge" />
 </p>
 
 <p align="center">
   <a href="https://riazaslam029.github.io/Riaz-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4338CA?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4338CA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/riaz-aslam-0bb69b310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-3730A3?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:riazaslam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
   </a>
   <a href="https://github.com/riazaslam029">
-    <img src="https://img.shields.io/badge/GitHub-Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riazaslam029&label=Profile%20Views&color=6D28D9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/riazaslam029?label=Followers&style=flat-square&color=7C3AED" />
-  <img src="https://img.shields.io/github/stars/riazaslam029?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat-square&color=4F46E5" />
+  <img src="https://komarev.com/ghpvc/?username=riazaslam029&label=Profile%20Views&color=6D28D9&style=flat-square" alt="Profile views counter" />
+  <img src="https://img.shields.io/github/followers/riazaslam029?label=Followers&style=flat-square&color=7C3AED" alt="GitHub followers badge" />
+  <img src="https://img.shields.io/github/stars/riazaslam029?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=flat-square&color=4F46E5" alt="GitHub total stars badge" />
 </p>
 
 ---
@@ -53,22 +53,22 @@ My core strengths span **AI/ML systems**, **full-stack product development**, an
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" alt="Languages: Java, C++, Python, JavaScript, TypeScript" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend: React, HTML, CSS, Tailwind, Bootstrap" />
 </p>
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend and databases: Node.js, Express, MySQL, MongoDB, Firebase" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,idea,postman" alt="Cloud and tooling: AWS, Git, GitHub, Docker, VS Code, IntelliJ IDEA, Postman" />
 </p>
 
 ---
@@ -181,8 +181,6 @@ Architecting and delivering practical software systems across AI-assisted health
 
 ## Achievements
 
-<p align="center">
-
 | Recognition | Details |
 |---|---|
 | End-to-End Project Delivery | Delivered multiple functional software systems across healthcare AI, inventory/sales, and commerce domains. |
@@ -190,29 +188,27 @@ Architecting and delivering practical software systems across AI-assisted health
 | Applied AI Engineering | Deployed AI-assisted healthcare solution with practical user-facing interface. |
 | Open Source Readiness | Maintains public repositories with collaboration-friendly structure and documentation intent. |
 
-</p>
-
 ---
 
 ## 🎓 Professional Certifications
 *Validated expertise from industry leaders.*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-AI%20Engineering-172664?style=flat&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coursera-Professional%20Certificates-0056D2?style=flat&logo=coursera&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white" alt="Google Data Analytics badge" />
+  <img src="https://img.shields.io/badge/IBM-AI%20Engineering-172664?style=flat&logo=ibm&logoColor=white" alt="IBM AI Engineering badge" />
+  <img src="https://img.shields.io/badge/Coursera-Professional%20Certificates-0056D2?style=flat&logo=coursera&logoColor=white" alt="Coursera Professional Certificates badge" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations badge" />
 </p>
 
 ### AWS
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Foundations credential" />
 </p>
 
 
 ### Cisco
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Security-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Security-312E81?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking and Security credential" />
 </p>
 
 ---
@@ -221,16 +217,16 @@ Architecting and delivering practical software systems across AI-assisted health
 
 <p align="center">
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
   </a>
   <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
   </a>
   <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Coding%20Challenges-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-Coding%20Challenges-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
   </a>
   <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-312E81?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-312E81?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
   </a>
 </p>
 
@@ -239,12 +235,12 @@ Architecting and delivering practical software systems across AI-assisted health
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riazaslam029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E9D5FF" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=riazaslam029&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riazaslam029&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E9D5FF" alt="GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=riazaslam029&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C4B5FD&currStreakLabel=C4B5FD" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazaslam029&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E9D5FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riazaslam029&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E9D5FF" alt="Top programming languages" />
 </p>
 
 ---
@@ -252,7 +248,7 @@ Architecting and delivering practical software systems across AI-assisted health
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riazaslam029&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riazaslam029&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub trophies" />
 </p>
 
 ---
@@ -260,7 +256,7 @@ Architecting and delivering practical software systems across AI-assisted health
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riazaslam029&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riazaslam029&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -268,7 +264,7 @@ Architecting and delivering practical software systems across AI-assisted health
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riazaslam029/riazaslam029/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/riazaslam029/riazaslam029/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -303,16 +299,16 @@ Open To:
 
 <p align="center">
   <a href="mailto:riazaslam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-riazaslam.dev%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-riazaslam.dev%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Riaz Aslam" />
   </a>
   <a href="https://www.linkedin.com/in/riaz-aslam-0bb69b310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Riaz%20Aslam-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Riaz%20Aslam-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="https://github.com/riazaslam029">
-    <img src="https://img.shields.io/badge/GitHub-riazaslam029-4338CA?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-riazaslam029-4338CA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub account" />
   </a>
   <a href="https://riazaslam029.github.io/Riaz-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-312E81?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Explore-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
 
@@ -321,5 +317,5 @@ Open To:
 <p align="center"><i>Engineering intelligent systems with precision, product thinking, and long-term impact.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" width="100%" alt="Footer wave" />
 </p>
