@@ -167,7 +167,7 @@ Professional Note: Built as a product-facing identity layer to support opportuni
 **Independent / Academic Engineering Projects**  
 **2023 — Present**
 
-Architecting and delivering practical software systems across AI-assisted healthcare, inventory management, commerce workflows, and portfolio branding.
+Architecting and delivering practical software systems across AI-assisted healthcare, inventory management, e-commerce workflows, and portfolio branding.
 
 **Scope of Work**
 - Designed and developed end-to-end software solutions from requirements to deployment.
